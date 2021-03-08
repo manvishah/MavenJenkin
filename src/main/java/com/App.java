@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
  System.out.println( "Pull from git repository" );
+ System.out.println( "Changes added" );
     }
 }
